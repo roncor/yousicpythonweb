@@ -1,4 +1,4 @@
-# yousicpythonweb
+# Project to run a web version of Python implementation
 The project has been divided in sections:
 1) Preparing the train and test data, cleaning and preproccesing the information
 2) Choose the best attributes for training the algorithms
