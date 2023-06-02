@@ -10,3 +10,7 @@ pandas
 
 To run the project you need to use this command:
 streamlit run credit_score_prediction_app.py
+
+Datasets and explanation of the classification problem can be find in the link shared below:
+https://www.kaggle.com/datasets/parisrohan/credit-score-classification
+
